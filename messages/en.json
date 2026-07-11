@@ -1,0 +1,586 @@
+{
+  "Navigation": {
+    "languageLabel": "Change language",
+    "homeLabel": "Kuttabu home page"
+  },
+  "GamePreview": {
+    "eyebrow": "Game Experience",
+    "title": "Describe the card. Avoid the taboo words.",
+    "description": "Kuttabu is a modern word game that brings Turkic history and culture into your game nights.",
+    "category": "Turkic States",
+    "word": "Göktürks",
+    "tabooWords": [
+      "Orkhon",
+      "Bilge Khagan",
+      "Inscription",
+      "Grey Wolf",
+      "Khagan"
+    ]
+  },
+  "Features": {
+    "eyebrow": "Features",
+    "title": "Not classic Taboo. Kuttabu.",
+    "items": [
+      {
+        "title": "Built around Turkic history",
+        "body": "A unique card library featuring states, battles, rulers, written works and cultural concepts."
+      },
+      {
+        "title": "One device",
+        "body": "Choose the teams and start playing. No rooms, accounts or complicated setup."
+      },
+      {
+        "title": "Difficulty levels",
+        "body": "Easy, medium and hard cards create the right pace for every group."
+      },
+      {
+        "title": "Kut cards",
+        "body": "Special cards change the rhythm of the game and create a more dynamic experience."
+      }
+    ]
+  },
+  "Stats": {
+    "items": [
+      {
+        "title": "10,000+",
+        "description": "Card target"
+      },
+      {
+        "title": "40+",
+        "description": "Categories"
+      },
+      {
+        "title": "One device",
+        "description": "Game nights"
+      }
+    ]
+  },
+  "Download": {
+    "title": "Ready to play? Coming Soon."
+  },
+  "Footer": {
+    "brandDescription": "The Taboo Game of the Turkic World.",
+    "groups": [
+      {
+        "title": "Game",
+        "links": [
+          {
+            "label": "How to Play",
+            "href": "/nasil-oynanir"
+          },
+          {
+            "label": "Game Rules",
+            "href": "/oyun-kurallari"
+          },
+          {
+            "label": "Card Categories",
+            "href": "/kart-kategorileri"
+          },
+          {
+            "label": "Updates",
+            "href": "/guncellemeler"
+          }
+        ]
+      },
+      {
+        "title": "Turkic History",
+        "links": [
+          {
+            "label": "Turkic States",
+            "href": "/turk-devletleri"
+          },
+          {
+            "label": "Göktürks",
+            "href": "/gokturkler"
+          },
+          {
+            "label": "Seljuk Empire",
+            "href": "/selcuklu-devleti"
+          },
+          {
+            "label": "Ottoman History",
+            "href": "/osmanli-tarihi"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "links": [
+          {
+            "label": "Blog",
+            "href": "/blog"
+          },
+          {
+            "label": "Announcements",
+            "href": "/duyurular"
+          },
+          {
+            "label": "Release Notes",
+            "href": "/surum-notlari"
+          },
+          {
+            "label": "Report an Incorrect Card",
+            "href": "/hatali-kart-bildir"
+          }
+        ]
+      },
+      {
+        "title": "Company",
+        "links": [
+          {
+            "label": "About Us",
+            "href": "/hakkimizda"
+          },
+          {
+            "label": "Privacy Policy",
+            "href": "/gizlilik-politikasi"
+          },
+          {
+            "label": "Terms of Use",
+            "href": "/kullanim-kosullari"
+          },
+          {
+            "label": "Personal Data Protection",
+            "href": "/kvkk"
+          }
+        ]
+      }
+    ],
+    "download": "Download",
+    "contact": "Contact",
+    "social": "Social",
+    "instagram": "Instagram",
+    "seoText": "Kuttabu is a modern Taboo-style word game inspired by Turkic history and culture. The Göktürks, the Ottoman Empire, the Seljuk Empire, the Orkhon Inscriptions, the Battle of Manzikert and hundreds of other historical subjects become an entertaining game experience through carefully prepared cards.",
+    "copyright": "© 2026 Kuttabu. All rights reserved.",
+    "tagline": "The Taboo Game of the Turkic World"
+  },
+  "Pages": {
+    "about": {
+      "eyebrow": "Company",
+      "title": "About Us",
+      "sections": [
+        {
+          "body": "Kuttabu is a modern Taboo-style word game created to make Turkic history and culture entertaining in social settings. Our aim is not simply to build a mobile game, but to transform a shared cultural heritage into an experience people can enjoy together."
+        },
+        {
+          "heading": "Our Vision",
+          "body": "To become one of the most comprehensive digital entertainment and knowledge platforms representing the Turkic world by building a strong bridge between cultural games and modern mobile experiences."
+        },
+        {
+          "heading": "Our Mission",
+          "body": "To offer an accessible, high-quality game experience that supports learning through play and continuously expands through new cards and categories."
+        },
+        {
+          "heading": "The Story of Kuttabu",
+          "body": "Kuttabu began with the need for a modern, clean and well-designed game that people interested in Turkic history could enjoy with friends."
+        },
+        {
+          "body": "Today, Kuttabu is more than a game. It is a long-term project designed to introduce Turkic history to new generations through a fresh and social experience."
+        },
+        {
+          "heading": "Contact",
+          "body": "For feedback, suggestions and partnerships, contact us at support@kuttabu.com."
+        }
+      ]
+    },
+    "privacy": {
+      "eyebrow": "Company",
+      "title": "Privacy Policy",
+      "sections": [
+        {
+          "body": "At Kuttabu, we value the privacy of our users. This policy explains what information may be collected while using our application and website and how that information may be used."
+        },
+        {
+          "heading": "Information We Collect",
+          "body": "Kuttabu does not require an account for its core game experience. Device information, application version, crash reports and anonymous usage statistics may be collected to improve the product."
+        },
+        {
+          "heading": "How Information Is Used",
+          "body": "Collected information is used only to improve performance, resolve technical issues, develop new features and enhance the user experience."
+        },
+        {
+          "heading": "Third-Party Services",
+          "body": "Kuttabu may use third-party analytics, crash reporting or store services. These services are governed by their own privacy policies."
+        },
+        {
+          "heading": "Security",
+          "body": "We use current security practices to protect user information. However, no internet-based method of transmission can be guaranteed to be completely secure."
+        },
+        {
+          "heading": "Contact",
+          "body": "For questions about this privacy policy, contact support@kuttabu.com."
+        }
+      ]
+    },
+    "terms": {
+      "eyebrow": "Company",
+      "title": "Terms of Use",
+      "sections": [
+        {
+          "body": "These terms apply to visitors and users of the Kuttabu mobile application and kuttabu.com. By using Kuttabu, you confirm that you have read, understood and accepted these terms."
+        },
+        {
+          "heading": "Purpose of the Service",
+          "body": "Kuttabu is a modern Taboo-style game built around Turkic history, culture, states, battles, rulers, written works and historical concepts."
+        },
+        {
+          "heading": "Use of Content",
+          "body": "Cards, words, prohibited words, written content, visual design, the logo, interface elements and all other original materials belong to Kuttabu and may not be copied, reproduced or used commercially without permission."
+        },
+        {
+          "heading": "Updates",
+          "body": "Kuttabu reserves the right to update, modify or remove cards, categories, rules, interfaces and features in order to improve the game experience."
+        },
+        {
+          "heading": "User Responsibilities",
+          "body": "Users agree not to use the application in violation of applicable law, public standards or the rights of third parties."
+        },
+        {
+          "heading": "Disclaimer",
+          "body": "Historical and cultural content is prepared with care, but Kuttabu is not an academic publication or an official historical authority."
+        },
+        {
+          "heading": "Intellectual Property",
+          "body": "The Kuttabu name, logo, visual identity, software, interface design and original game content are protected by applicable intellectual property laws."
+        },
+        {
+          "heading": "Contact",
+          "body": "For questions about these terms, contact support@kuttabu.com."
+        }
+      ]
+    },
+    "kvkk": {
+      "eyebrow": "Company",
+      "title": "Personal Data Protection",
+      "sections": [
+        {
+          "body": "Kuttabu values the privacy and security of personal data. This notice explains how data may be processed, protected and managed in accordance with applicable data protection principles."
+        },
+        {
+          "heading": "Data That May Be Processed",
+          "body": "The application does not require membership for core use. Device model, operating system version, application version, anonymous crash records and performance information may be processed for security and product improvement."
+        },
+        {
+          "heading": "Purposes of Processing",
+          "body": "Information is used to improve service quality, analyze performance, identify technical problems, enhance the user experience and protect the application."
+        },
+        {
+          "heading": "Data Retention",
+          "body": "Personal data is retained only for as long as necessary. When legal and operational requirements end, data is deleted, anonymized or otherwise disposed of appropriately."
+        },
+        {
+          "heading": "User Rights",
+          "body": "Users may request information about whether their personal data is processed, request correction or deletion, and exercise other rights available under applicable data protection legislation."
+        },
+        {
+          "heading": "Contact",
+          "body": "Data protection requests can be sent to support@kuttabu.com."
+        }
+      ]
+    },
+    "howToPlay": {
+      "eyebrow": "Game",
+      "title": "How to Play",
+      "sections": [
+        {
+          "body": "Kuttabu is a modern Taboo-style game built around Turkic history and culture. Players take turns describing the word shown on the screen without using the prohibited words listed on the card."
+        },
+        {
+          "heading": "1. Create the Teams",
+          "body": "Create two teams before the game begins. Choose team names and decide which team will start."
+        },
+        {
+          "heading": "2. Choose the Game Settings",
+          "body": "Set the round duration, number of rounds, pass limit and taboo penalty before starting the game."
+        },
+        {
+          "heading": "3. Describe the Word",
+          "body": "When the timer starts, the narrator tries to help teammates guess the main word without saying any of the prohibited words."
+        },
+        {
+          "heading": "4. Correct, Pass or Taboo",
+          "body": "Select Correct when the word is guessed, Pass when you want to skip the card, and Taboo when a prohibited word is used."
+        },
+        {
+          "heading": "5. End of the Round",
+          "body": "When the timer ends, play passes to the other team. The team with the highest score after all rounds wins."
+        },
+        {
+          "heading": "Tip",
+          "body": "Short, clear and creative clues help your team guess more cards while avoiding the prohibited words."
+        }
+      ]
+    },
+    "gameRules": {
+      "eyebrow": "Game",
+      "title": "Game Rules",
+      "sections": [
+        {
+          "body": "Kuttabu is a team-based word game inspired by Turkic history and culture. The goal is to describe the main word without using the prohibited words and earn the highest score."
+        },
+        {
+          "heading": "Core Rule",
+          "body": "The narrator describes the main word to teammates but may not use any of the prohibited words shown on the card."
+        },
+        {
+          "heading": "Correct Answer",
+          "body": "When the team guesses the main word correctly, the card is marked as correct and the team earns a point."
+        },
+        {
+          "heading": "Taboo",
+          "body": "If the narrator uses one of the prohibited words or directly says the main word, the card is marked as taboo."
+        },
+        {
+          "heading": "Pass",
+          "body": "The narrator may skip a difficult card. The number of available passes is selected during game setup."
+        },
+        {
+          "heading": "Scoring",
+          "body": "Under the default scoring system, a correct answer gives +1 point and a taboo gives -1 point."
+        },
+        {
+          "heading": "Time and Rounds",
+          "body": "Each team describes cards during the selected time limit. After all rounds are completed, the team with the highest score wins."
+        },
+        {
+          "heading": "Winning Team",
+          "body": "The team with the highest final score wins. If the scores are tied, an additional round may be played."
+        }
+      ]
+    },
+    "cardCategories": {
+      "eyebrow": "Game",
+      "title": "Card Categories",
+      "sections": [
+        {
+          "body": "Kuttabu cards are organized into categories that explore different parts of Turkic history and culture."
+        },
+        {
+          "heading": "Turkic States",
+          "body": "The Göktürks, Huns, Uyghurs, Seljuks, Ottomans and other Turkic states from different historical periods."
+        },
+        {
+          "heading": "Battles",
+          "body": "Manzikert, the Conquest of Constantinople, Mohács, Dandanaqan and other major military events."
+        },
+        {
+          "heading": "Rulers",
+          "body": "Khagans, sultans, padishahs, commanders and leaders who shaped Turkic history."
+        },
+        {
+          "heading": "Written Works",
+          "body": "The Orkhon Inscriptions, Kutadgu Bilig, Dīwān Lughāt al-Turk and other important written sources."
+        },
+        {
+          "heading": "Epics and Mythology",
+          "body": "Oghuz Khagan, Ergenekon, the Grey Wolf and major themes from Turkic mythology."
+        },
+        {
+          "heading": "Culture and Concepts",
+          "body": "Kut, töre, toy, kurultai, oba, khaganate and other concepts reflecting Turkic culture."
+        },
+        {
+          "heading": "How Are Categories Prepared?",
+          "body": "Each card is designed to create a balanced relationship between the main word and its prohibited words."
+        },
+        {
+          "heading": "Continuously Growing Content",
+          "body": "The Kuttabu card library continues to expand through new categories, new words and player feedback."
+        }
+      ]
+    },
+    "updates": {
+      "eyebrow": "Game",
+      "title": "Updates",
+      "sections": [
+        {
+          "body": "Kuttabu is not a one-time release. It is a continuously developed content project."
+        },
+        {
+          "heading": "Content Updates",
+          "body": "New cards, states, battles, rulers, periods and cultural concepts are regularly added to the card library."
+        },
+        {
+          "heading": "Game Experience Updates",
+          "body": "The game flow, card transitions, sounds, vibration and interface details may be improved based on player feedback."
+        },
+        {
+          "heading": "Incorrect Card Corrections",
+          "body": "Cards reported as inaccurate or unbalanced are reviewed and updated when necessary."
+        },
+        {
+          "heading": "Release Notes",
+          "body": "Major updates, new features and important changes are published on the release notes page."
+        }
+      ]
+    },
+    "blog": {
+      "eyebrow": "Resources",
+      "title": "Blog",
+      "sections": [
+        {
+          "body": "The Kuttabu Blog offers clear, accessible articles about Turkic history and culture connected to the game's card library."
+        },
+        {
+          "heading": "Who Were the Göktürks?",
+          "body": "An introduction to the place of the Göktürks in history and the legacy they left behind."
+        },
+        {
+          "heading": "Turkic States",
+          "body": "A broad overview of the heritage of Turkic states from the Huns to the Ottoman Empire."
+        },
+        {
+          "heading": "The Seljuk Empire",
+          "body": "A short introduction to the political and cultural power that transformed Anatolian history."
+        },
+        {
+          "heading": "Ottoman History",
+          "body": "The major periods of Ottoman history from principality to empire."
+        }
+      ]
+    },
+    "announcements": {
+      "eyebrow": "Resources",
+      "title": "Announcements",
+      "sections": [
+        {
+          "body": "Important developments, new features, content packs and release information related to Kuttabu are shared on this page."
+        },
+        {
+          "heading": "Kuttabu Is Preparing for Its First Release",
+          "body": "The first version will include the core game flow, team settings, card system and a library inspired by Turkic history."
+        }
+      ]
+    },
+    "releaseNotes": {
+      "eyebrow": "Resources",
+      "title": "Release Notes",
+      "sections": [
+        {
+          "body": "Kuttabu release notes provide a record of major changes, new features, card updates and bug fixes."
+        },
+        {
+          "heading": "v1.0.0 — Initial Release",
+          "body": "Team-based gameplay, the card description system, correct, pass and taboo actions, a Turkic history card library, settings, profile, results and feedback screens."
+        }
+      ]
+    },
+    "reportCard": {
+      "eyebrow": "Resources",
+      "title": "Report an Incorrect Card",
+      "sections": [
+        {
+          "body": "Accuracy, balance and playability are important to us. You can report historical errors, incorrect categories or problematic prohibited words."
+        },
+        {
+          "heading": "What Can Be Reported?",
+          "body": "Incorrect information, overly easy or difficult prohibited words, repeated cards, spelling errors and category mismatches."
+        },
+        {
+          "heading": "How to Report",
+          "body": "Use the feedback area in the application or email the card name and a short explanation to support@kuttabu.com."
+        },
+        {
+          "heading": "Review Process",
+          "body": "Reports are reviewed and cards may be corrected, updated or removed from the card library."
+        }
+      ]
+    },
+    "turkicStates": {
+      "eyebrow": "Turkic History",
+      "title": "Turkic States",
+      "sections": [
+        {
+          "body": "Turkic states have left political and cultural legacies across a vast geography stretching from the Central Asian steppes to Anatolia, the Balkans and the Caucasus."
+        },
+        {
+          "heading": "Turkic States in Kuttabu",
+          "body": "The Göktürks, Huns, Uyghurs, Seljuks, Ottomans and other Turkic states appear through relationships between main words and prohibited words."
+        },
+        {
+          "heading": "Why Are They Important?",
+          "body": "Turkic states left important legacies in military organization, government, culture, language, art, law and diplomacy."
+        },
+        {
+          "heading": "Use in the Game",
+          "body": "A card may use Göktürks as the main word and Orkhon, Bilge Khagan, Khagan, Grey Wolf or Inscription as prohibited words."
+        }
+      ]
+    },
+    "gokturks": {
+      "eyebrow": "Turkic History",
+      "title": "The Göktürks",
+      "sections": [
+        {
+          "body": "The Göktürks hold a special place in Turkic history as one of the first political entities to use the name Turk as a state name."
+        },
+        {
+          "heading": "Their Place in History",
+          "body": "The Göktürks were one of the most important state formations of the steppe world, known for their khaganate system, military organization and wide regional influence."
+        },
+        {
+          "heading": "The Orkhon Inscriptions",
+          "body": "The inscriptions dedicated to Bilge Khagan, Kül Tigin and Tonyukuk are among the most valuable sources for the Turkic language and historical consciousness."
+        },
+        {
+          "heading": "Göktürk Cards in Kuttabu",
+          "body": "A Göktürk card may be associated with Orkhon, Bilge Khagan, inscriptions, the Grey Wolf, Khagan, Tonyukuk and Kül Tigin."
+        },
+        {
+          "heading": "Why Is It Fun in the Game?",
+          "body": "The Göktürks create strong historical associations, but carefully selected prohibited words make the card challenging and entertaining."
+        }
+      ]
+    },
+    "seljukEmpire": {
+      "eyebrow": "Turkic History",
+      "title": "The Seljuk Empire",
+      "sections": [
+        {
+          "body": "The Seljuk Empire played a major role in the rise of Turkic political, military and cultural power in the Islamic world."
+        },
+        {
+          "heading": "Historical Importance",
+          "body": "The Seljuks influenced a vast geography through their government system, military successes, architecture and scholarly institutions."
+        },
+        {
+          "heading": "Manzikert and Anatolia",
+          "body": "The Battle of Manzikert opened a new historical period in which Anatolia became a major center of Turkic history."
+        },
+        {
+          "heading": "Seljuk Cards in Kuttabu",
+          "body": "The Seljuk Empire may be associated with Alp Arslan, Manzikert, Nizam al-Mulk, Anatolia, Sultan, madrasas and caravanserais."
+        },
+        {
+          "heading": "Difficulty in the Game",
+          "body": "Seljuk cards provide strong associations but carefully chosen prohibited words force narrators to create new connections."
+        }
+      ]
+    },
+    "ottomanHistory": {
+      "eyebrow": "Turkic History",
+      "title": "Ottoman History",
+      "sections": [
+        {
+          "body": "Ottoman history is a long and complex process that stretches from a small principality to an empire spanning three continents."
+        },
+        {
+          "heading": "From Principality to Empire",
+          "body": "The Ottoman principality gradually became a major empire influential across the Balkans, Anatolia, the Middle East and North Africa."
+        },
+        {
+          "heading": "The Ottoman Empire in Kuttabu",
+          "body": "Ottoman history appears through rulers, battles, treaties, institutions, architecture and cultural concepts."
+        },
+        {
+          "heading": "Example Card Associations",
+          "body": "Mehmed the Conqueror, the Conquest of Constantinople, Suleiman the Magnificent, Janissaries, Topkapı Palace, the Imperial Council and the Tulip Era."
+        },
+        {
+          "heading": "Why Is It Strong in the Game?",
+          "body": "Ottoman history offers a broad vocabulary that makes it suitable for both easy and difficult cards."
+        }
+      ]
+    }
+  }
+}

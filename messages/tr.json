@@ -1,0 +1,586 @@
+{
+  "Navigation": {
+    "languageLabel": "Dil değiştir",
+    "homeLabel": "Kuttabu ana sayfa"
+  },
+  "GamePreview": {
+    "eyebrow": "Oyun Deneyimi",
+    "title": "Kartı anlat, tabuya düşme.",
+    "description": "Kuttabu, Türk tarihi ve kültürünü arkadaş ortamına taşıyan modern bir tabu oyunudur.",
+    "category": "Türk Devletleri",
+    "word": "Göktürkler",
+    "tabooWords": [
+      "Orhun",
+      "Bilge Kağan",
+      "Yazıt",
+      "Bozkurt",
+      "Kağan"
+    ]
+  },
+  "Features": {
+    "eyebrow": "Özellikler",
+    "title": "Klasik tabu değil, Kuttabu.",
+    "items": [
+      {
+        "title": "Türk tarihi odaklı",
+        "body": "Devletler, savaşlar, hükümdarlar, eserler ve kültürel kavramlardan oluşan özel kart havuzu."
+      },
+      {
+        "title": "Tek cihaz",
+        "body": "Takımlar seçilir, oyun başlar. Oda kurma veya üyelik yok."
+      },
+      {
+        "title": "Zorluk seviyeleri",
+        "body": "Kolay, orta ve zor kartlarla her oyuncu grubuna uygun tempo."
+      },
+      {
+        "title": "Kut kartları",
+        "body": "Oyunun ritmini değiştiren özel kartlarla daha dinamik bir deneyim."
+      }
+    ]
+  },
+  "Stats": {
+    "items": [
+      {
+        "title": "10.000+",
+        "description": "Kart hedefi"
+      },
+      {
+        "title": "40+",
+        "description": "Kategori"
+      },
+      {
+        "title": "Tek cihaz",
+        "description": "Arkadaş ortamı"
+      }
+    ]
+  },
+  "Download": {
+    "title": "Hazır mısın? Çok yakında."
+  },
+  "Footer": {
+    "brandDescription": "Türk Dünyasının Tabu Oyunu.",
+    "groups": [
+      {
+        "title": "Oyun",
+        "links": [
+          {
+            "label": "Nasıl Oynanır",
+            "href": "/nasil-oynanir"
+          },
+          {
+            "label": "Oyun Kuralları",
+            "href": "/oyun-kurallari"
+          },
+          {
+            "label": "Kart Kategorileri",
+            "href": "/kart-kategorileri"
+          },
+          {
+            "label": "Güncellemeler",
+            "href": "/guncellemeler"
+          }
+        ]
+      },
+      {
+        "title": "Türk Tarihi",
+        "links": [
+          {
+            "label": "Türk Devletleri",
+            "href": "/turk-devletleri"
+          },
+          {
+            "label": "Göktürkler",
+            "href": "/gokturkler"
+          },
+          {
+            "label": "Selçuklu Devleti",
+            "href": "/selcuklu-devleti"
+          },
+          {
+            "label": "Osmanlı Tarihi",
+            "href": "/osmanli-tarihi"
+          }
+        ]
+      },
+      {
+        "title": "Kaynaklar",
+        "links": [
+          {
+            "label": "Blog",
+            "href": "/blog"
+          },
+          {
+            "label": "Duyurular",
+            "href": "/duyurular"
+          },
+          {
+            "label": "Sürüm Notları",
+            "href": "/surum-notlari"
+          },
+          {
+            "label": "Hatalı Kart Bildir",
+            "href": "/hatali-kart-bildir"
+          }
+        ]
+      },
+      {
+        "title": "Kurumsal",
+        "links": [
+          {
+            "label": "Hakkımızda",
+            "href": "/hakkimizda"
+          },
+          {
+            "label": "Gizlilik Politikası",
+            "href": "/gizlilik-politikasi"
+          },
+          {
+            "label": "Kullanım Koşulları",
+            "href": "/kullanim-kosullari"
+          },
+          {
+            "label": "KVKK",
+            "href": "/kvkk"
+          }
+        ]
+      }
+    ],
+    "download": "İndir",
+    "contact": "İletişim",
+    "social": "Sosyal",
+    "instagram": "Instagram",
+    "seoText": "Kuttabu, Türk tarihi ve Türk dünyası temalı modern bir tabu oyunudur. Göktürkler, Osmanlı Devleti, Selçuklu Devleti, Orhun Yazıtları, Malazgirt Savaşı ve daha yüzlerce tarihi konu; özenle hazırlanan kartlarla arkadaş ortamında eğlenceli bir oyun deneyimine dönüşür.",
+    "copyright": "© 2026 Kuttabu. Tüm hakları saklıdır.",
+    "tagline": "Türk Dünyasının Tabu Oyunu"
+  },
+  "Pages": {
+    "about": {
+      "eyebrow": "Kurumsal",
+      "title": "Hakkımızda",
+      "sections": [
+        {
+          "body": "Kuttabu, Türk tarihini ve Türk dünyasını arkadaş ortamında eğlenceli hale getirmek amacıyla geliştirilen modern bir tabu oyunudur. Amacımız yalnızca bir mobil oyun üretmek değil; tarihimizi, kültürümüzü ve ortak mirasımızı herkesin keyifle vakit geçirebileceği bir deneyime dönüştürmektir."
+        },
+        {
+          "heading": "Vizyonumuz",
+          "body": "Tarih ve kültür temalı kutu oyunları ile mobil oyunlar arasında güçlü bir köprü kurarak Türk dünyasını dijital ortamda temsil eden en kapsamlı bilgi ve eğlence platformlarından biri olmak."
+        },
+        {
+          "heading": "Misyonumuz",
+          "body": "Eğlenirken öğrenmeyi destekleyen, sürekli gelişen içeriklere sahip, kaliteli ve erişilebilir bir oyun deneyimi sunmak. Binlerce karttan oluşan içerik havuzunu düzenli olarak geliştirerek oyunculara her zaman yeni bilgiler keşfetme fırsatı sunmayı hedefliyoruz."
+        },
+        {
+          "heading": "Kuttabu'nun Hikâyesi",
+          "body": "Kuttabu fikri, Türk tarihine ilgi duyan insanların arkadaş ortamında oynayabileceği modern, sade ve kaliteli bir tabu oyunu eksikliğinden doğdu. Geliştirme sürecinde yüzlerce saat araştırma yapıldı, binlerce kart hazırlandı ve her detay kullanıcı deneyimi düşünülerek tasarlandı."
+        },
+        {
+          "body": "Bugün Kuttabu; yalnızca bir oyun değil, Türk tarihini yeni nesillere farklı bir bakış açısıyla anlatmayı amaçlayan uzun soluklu bir projedir."
+        },
+        {
+          "heading": "İletişim",
+          "body": "Görüş, öneri ve iş birlikleri için support@kuttabu.com adresi üzerinden bizimle iletişime geçebilirsiniz."
+        }
+      ]
+    },
+    "privacy": {
+      "eyebrow": "Kurumsal",
+      "title": "Gizlilik Politikası",
+      "sections": [
+        {
+          "body": "Kuttabu olarak kullanıcılarımızın gizliliğine önem veriyoruz. Bu politika, uygulamamızı ve web sitemizi kullanırken hangi bilgilerin toplandığını ve nasıl kullanıldığını açıklar."
+        },
+        {
+          "heading": "Toplanan Bilgiler",
+          "body": "Kuttabu temel oyun deneyimi için kişisel hesap oluşturmayı zorunlu tutmaz. Kullanıcı deneyimini geliştirmek amacıyla cihaz bilgileri, uygulama sürümü, hata kayıtları ve anonim kullanım istatistikleri toplanabilir."
+        },
+        {
+          "heading": "Bilgilerin Kullanımı",
+          "body": "Toplanan bilgiler yalnızca uygulamanın performansını artırmak, hataları gidermek, yeni özellikler geliştirmek ve kullanıcı deneyimini iyileştirmek amacıyla kullanılır."
+        },
+        {
+          "heading": "Üçüncü Taraf Hizmetler",
+          "body": "Kuttabu, uygulamanın çalışmasını destekleyen analiz, hata raporlama veya mağaza hizmetleri kapsamında üçüncü taraf servislerden yararlanabilir. Bu servisler kendi gizlilik politikalarına tabidir."
+        },
+        {
+          "heading": "Güvenlik",
+          "body": "Kullanıcı verilerinin güvenliği için güncel güvenlik yöntemleri uygulanmaktadır. Ancak internet üzerinden yapılan hiçbir veri aktarımı yüzde yüz güvenli olarak garanti edilemez."
+        },
+        {
+          "heading": "İletişim",
+          "body": "Gizlilik politikasıyla ilgili sorularınız için support@kuttabu.com adresine ulaşabilirsiniz."
+        }
+      ]
+    },
+    "terms": {
+      "eyebrow": "Kurumsal",
+      "title": "Kullanım Koşulları",
+      "sections": [
+        {
+          "body": "Bu kullanım koşulları, Kuttabu mobil uygulamasını ve kuttabu.com web sitesini kullanan ziyaretçiler için geçerlidir. Kuttabu'yu kullanarak bu koşulları okuduğunuzu, anladığınızı ve kabul ettiğinizi beyan etmiş olursunuz."
+        },
+        {
+          "heading": "Hizmetin Amacı",
+          "body": "Kuttabu; Türk tarihi, Türk dünyası, kültür, devletler, savaşlar, hükümdarlar, eserler ve kavramlar etrafında hazırlanmış kartlarla oynanan modern bir tabu oyunudur. Uygulama eğlence, sosyalleşme ve kültürel farkındalık amacıyla geliştirilmiştir."
+        },
+        {
+          "heading": "İçerik Kullanımı",
+          "body": "Uygulama içerisindeki kartlar, kelimeler, yasaklı kelimeler, metinler, tasarımlar, logo, arayüz öğeleri ve diğer tüm içerikler Kuttabu'ya aittir. Bu içerikler izinsiz olarak kopyalanamaz, çoğaltılamaz, ticari amaçla kullanılamaz veya farklı platformlarda yayınlanamaz."
+        },
+        {
+          "heading": "Güncellemeler",
+          "body": "Kuttabu, oyun deneyimini iyileştirmek amacıyla kartları, kategorileri, oyun kurallarını, arayüzleri ve özellikleri zaman içinde değiştirme, güncelleme veya kaldırma hakkını saklı tutar."
+        },
+        {
+          "heading": "Kullanıcı Sorumluluğu",
+          "body": "Kullanıcılar uygulamayı hukuka, genel ahlaka ve üçüncü kişilerin haklarına aykırı şekilde kullanmamayı kabul eder."
+        },
+        {
+          "heading": "Sorumluluk Reddi",
+          "body": "Kuttabu'da yer alan tarihsel ve kültürel içerikler özenle hazırlanır; ancak uygulama akademik kaynak veya resmi tarih platformu niteliği taşımaz."
+        },
+        {
+          "heading": "Fikri Mülkiyet",
+          "body": "Kuttabu adı, logosu, görsel kimliği, oyun yapısı, arayüz tasarımı, yazılım bileşenleri ve özgün içerikleri ilgili fikri mülkiyet hakları kapsamında korunur."
+        },
+        {
+          "heading": "İletişim",
+          "body": "Kullanım koşullarıyla ilgili sorularınız için support@kuttabu.com adresi üzerinden bizimle iletişime geçebilirsiniz."
+        }
+      ]
+    },
+    "kvkk": {
+      "eyebrow": "Kurumsal",
+      "title": "Kişisel Verilerin Korunması (KVKK)",
+      "sections": [
+        {
+          "body": "Kuttabu olarak kullanıcılarımızın kişisel verilerinin gizliliğine ve güvenliğine önem veriyoruz. Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında kişisel verilerin hangi amaçlarla işlendiğini, nasıl korunduğunu ve kullanıcıların sahip olduğu hakları açıklamak amacıyla hazırlanmıştır."
+        },
+        {
+          "heading": "İşlenen Veriler",
+          "body": "Kuttabu uygulaması temel kullanım için üyelik gerektirmez. Bununla birlikte uygulamanın güvenliğini sağlamak, performansını geliştirmek ve teknik sorunları gidermek amacıyla cihaz modeli, işletim sistemi sürümü, uygulama sürümü, anonim hata kayıtları ve performans verileri işlenebilir."
+        },
+        {
+          "heading": "Verilerin İşlenme Amaçları",
+          "body": "Toplanan bilgiler yalnızca hizmet kalitesini artırmak, uygulama performansını analiz etmek, teknik hataları tespit etmek, kullanıcı deneyimini geliştirmek ve güvenliği sağlamak amacıyla kullanılmaktadır."
+        },
+        {
+          "heading": "Verilerin Saklanması",
+          "body": "Kişisel veriler yalnızca gerekli süre boyunca saklanır. İlgili yasal yükümlülüklerin sona ermesiyle birlikte veriler silinir, anonim hale getirilir veya mevzuata uygun şekilde imha edilir."
+        },
+        {
+          "heading": "Kullanıcı Hakları",
+          "body": "KVKK'nın 11. maddesi kapsamında kullanıcılar kişisel verilerinin işlenip işlenmediğini öğrenme, bilgi talep etme, düzeltilmesini isteme, silinmesini talep etme ve kanunda belirtilen diğer haklarını kullanabilir."
+        },
+        {
+          "heading": "İletişim",
+          "body": "KVKK kapsamındaki taleplerinizi ve sorularınızı support@kuttabu.com adresi üzerinden bize iletebilirsiniz."
+        }
+      ]
+    },
+    "howToPlay": {
+      "eyebrow": "Oyun",
+      "title": "Nasıl Oynanır?",
+      "sections": [
+        {
+          "body": "Kuttabu, Türk tarihi ve Türk dünyası temalı modern bir tabu oyunudur. Oyuncular sırayla ekranda görünen kelimeyi takım arkadaşlarına anlatmaya çalışır. Ancak kart üzerinde bulunan yasaklı kelimeleri kullanmaları yasaktır."
+        },
+        {
+          "heading": "1. Takımları Oluşturun",
+          "body": "Oyuna başlamadan önce iki takım oluşturulur. Takım isimleri belirlenir ve ilk başlayacak takım seçilir."
+        },
+        {
+          "heading": "2. Oyun Ayarlarını Belirleyin",
+          "body": "Tur süresi, tur sayısı, pas hakkı ve tabu cezası gibi seçenekler oyun başlamadan önce düzenlenebilir. Böylece her oyun farklı bir tempoda oynanabilir."
+        },
+        {
+          "heading": "3. Kelimeyi Anlatın",
+          "body": "Süre başladıktan sonra anlatıcı ekrandaki ana kelimeyi takım arkadaşlarına anlatmaya çalışır. Yasaklı kelimeleri söylemeden en doğru ipuçlarını vermek oyuncunun becerisine bağlıdır."
+        },
+        {
+          "heading": "4. Doğru, Pas veya Tabu",
+          "body": "Kelime doğru tahmin edilirse Doğru, anlatılamıyorsa Pas, yasaklı kelimelerden biri kullanılırsa Tabu seçeneği işaretlenir. Her işlem puan durumunu doğrudan etkiler."
+        },
+        {
+          "heading": "5. Tur Sonu",
+          "body": "Süre dolduğunda sıra diğer takıma geçer. Belirlenen tur sayısı tamamlandığında en yüksek puana sahip takım oyunu kazanır."
+        },
+        {
+          "heading": "İpucu",
+          "body": "Anlatım sırasında kısa, net ve yaratıcı ipuçları vermek takımınızın daha fazla kelime tahmin etmesini sağlar. Yasaklı kelimelere yaklaşmamak başarılı olmanın en önemli anahtarıdır."
+        }
+      ]
+    },
+    "gameRules": {
+      "eyebrow": "Oyun",
+      "title": "Oyun Kuralları",
+      "sections": [
+        {
+          "body": "Kuttabu, takım halinde oynanan Türk tarihi ve Türk dünyası temalı bir tabu oyunudur. Oyunun amacı, ekrandaki ana kelimeyi yasaklı kelimeleri kullanmadan takım arkadaşlarına anlatmak ve en yüksek puana ulaşmaktır."
+        },
+        {
+          "heading": "Temel Kural",
+          "body": "Anlatıcı, kartta yer alan ana kelimeyi takım arkadaşlarına anlatır. Ancak kartın altında bulunan yasaklı kelimelerden hiçbirini söyleyemez. Yasaklı kelimelerden biri kullanılırsa kart tabu sayılır."
+        },
+        {
+          "heading": "Doğru Cevap",
+          "body": "Takım ana kelimeyi doğru tahmin ederse kart doğru kabul edilir ve takım puan kazanır. Doğru cevap sonrası sıradaki karta geçilir."
+        },
+        {
+          "heading": "Tabu",
+          "body": "Anlatıcı yasaklı kelimelerden birini söylerse veya ana kelimeyi doğrudan söylemeye çalışırsa kart tabu kabul edilir."
+        },
+        {
+          "heading": "Pas Hakkı",
+          "body": "Anlatıcı anlatmakta zorlandığı kartı pas geçebilir. Pas hakkı oyun kurulumu sırasında belirlenir ve sınırlı, sınırsız veya kapalı olabilir."
+        },
+        {
+          "heading": "Puanlama",
+          "body": "Varsayılan puanlama sisteminde doğru cevap +1 puan, tabu ise -1 puan olarak değerlendirilir."
+        },
+        {
+          "heading": "Süre ve Tur",
+          "body": "Her takım belirlenen süre boyunca kart anlatır. Süre dolduğunda sıra diğer takıma geçer. Seçilen tur sayısı tamamlandığında toplam puanı en yüksek takım oyunu kazanır."
+        },
+        {
+          "heading": "Kazanan Takım",
+          "body": "Oyun sonunda en yüksek puana sahip takım kazanır. Puan eşitliği halinde oyuncular ek tur oynayabilir."
+        }
+      ]
+    },
+    "cardCategories": {
+      "eyebrow": "Oyun",
+      "title": "Kart Kategorileri",
+      "sections": [
+        {
+          "body": "Kuttabu kartları, Türk tarihi ve Türk dünyasını farklı yönleriyle ele alan kategorilerden oluşur. Her kategori, oyunun hem eğlenceli hem de kültürel açıdan zengin bir deneyim sunmasını amaçlar."
+        },
+        {
+          "heading": "Türk Devletleri",
+          "body": "Göktürkler, Hunlar, Uygurlar, Selçuklular, Osmanlılar ve farklı dönemlerde kurulmuş Türk devletleri."
+        },
+        {
+          "heading": "Savaşlar",
+          "body": "Malazgirt, İstanbul'un Fethi, Mohaç, Dandanakan ve Türk tarihinin önemli askeri mücadeleleri."
+        },
+        {
+          "heading": "Hükümdarlar",
+          "body": "Kağanlar, sultanlar, padişahlar, komutanlar ve Türk tarihine yön veren liderler."
+        },
+        {
+          "heading": "Yazılı Eserler",
+          "body": "Orhun Yazıtları, Kutadgu Bilig, Divânu Lügati't-Türk ve Türk tarihinin önemli yazılı kaynakları."
+        },
+        {
+          "heading": "Destanlar ve Mitoloji",
+          "body": "Oğuz Kağan, Ergenekon, Bozkurt, türeyiş anlatıları ve Türk mitolojisinin temel kavramları."
+        },
+        {
+          "heading": "Kültür ve Kavramlar",
+          "body": "Kut, töre, toy, kurultay, oba, kağanlık ve Türk kültürünü yansıtan kavramlar."
+        },
+        {
+          "heading": "Kategoriler Nasıl Hazırlanır?",
+          "body": "Her kart, ana kelime ve yasaklı kelimeler arasında doğru dengeyi kuracak şekilde hazırlanır. Kolay kartlarda en bilinen çağrışımlar, zor kartlarda ise daha yaratıcı anlatım gerektiren yasaklı kelimeler kullanılır."
+        },
+        {
+          "heading": "Sürekli Gelişen İçerik",
+          "body": "Kuttabu kart havuzu yeni kategoriler, yeni kelimeler ve oyuncu geri bildirimleriyle büyümeye devam eder."
+        }
+      ]
+    },
+    "updates": {
+      "eyebrow": "Oyun",
+      "title": "Güncellemeler",
+      "sections": [
+        {
+          "body": "Kuttabu, tek seferlik hazırlanıp bırakılan bir oyun değil; düzenli olarak geliştirilen canlı bir içerik projesidir."
+        },
+        {
+          "heading": "İçerik Güncellemeleri",
+          "body": "Yeni Türk tarihi kartları, dönemler, devletler, savaşlar, hükümdarlar ve kültürel kavramlar düzenli olarak kart havuzuna eklenir."
+        },
+        {
+          "heading": "Oyun Deneyimi Güncellemeleri",
+          "body": "Kullanıcı geri bildirimlerine göre oyun akışı, kart geçişleri, sesler, titreşimler ve arayüz detayları geliştirilebilir."
+        },
+        {
+          "heading": "Hatalı Kart Düzeltmeleri",
+          "body": "Oyuncular tarafından bildirilen hatalı veya tartışmalı kartlar incelenir ve gerekli durumlarda düzenlenir."
+        },
+        {
+          "heading": "Sürüm Notları",
+          "body": "Büyük güncellemeler, yeni özellikler ve önemli değişiklikler sürüm notları sayfasında paylaşılır."
+        }
+      ]
+    },
+    "blog": {
+      "eyebrow": "Kaynaklar",
+      "title": "Blog",
+      "sections": [
+        {
+          "body": "Kuttabu Blog, Türk tarihi ve Türk dünyası hakkında kısa, anlaşılır ve oyunla bağlantılı içerikler sunar."
+        },
+        {
+          "heading": "Göktürkler Kimdir?",
+          "body": "Türk adını devlet adı olarak kullanan Göktürklerin tarih sahnesindeki yeri ve bıraktıkları miras."
+        },
+        {
+          "heading": "Türk Devletleri",
+          "body": "Hunlardan Osmanlı'ya uzanan geniş Türk devletleri mirasına genel bir bakış."
+        },
+        {
+          "heading": "Selçuklu Devleti",
+          "body": "Anadolu'nun kapılarını açan siyasi ve kültürel gücün kısa hikâyesi."
+        },
+        {
+          "heading": "Osmanlı Tarihi",
+          "body": "Beylikten imparatorluğa uzanan Osmanlı tarihinin temel dönemleri."
+        }
+      ]
+    },
+    "announcements": {
+      "eyebrow": "Kaynaklar",
+      "title": "Duyurular",
+      "sections": [
+        {
+          "body": "Kuttabu ile ilgili önemli gelişmeler, yeni özellikler, içerik paketleri ve yayın bilgileri bu sayfada paylaşılır."
+        },
+        {
+          "heading": "Kuttabu İlk Sürümüyle Hazırlanıyor",
+          "body": "İlk sürümde temel oyun akışı, kart sistemi, takım ayarları ve Türk tarihi temalı kart havuzu kullanıcılarla buluşacak."
+        }
+      ]
+    },
+    "releaseNotes": {
+      "eyebrow": "Kaynaklar",
+      "title": "Sürüm Notları",
+      "sections": [
+        {
+          "body": "Kuttabu sürüm notları, uygulamada yapılan önemli değişiklikleri, yeni eklenen özellikleri, kart güncellemelerini ve hata düzeltmelerini takip etmek için hazırlanır."
+        },
+        {
+          "heading": "v1.0.0 — İlk Yayın Sürümü",
+          "body": "Takım tabanlı oyun akışı, kart anlatma sistemi, doğru, pas ve tabu seçenekleri, Türk tarihi temalı kart havuzu, ayarlar, profil, sonuç ve geri bildirim ekranları."
+        }
+      ]
+    },
+    "reportCard": {
+      "eyebrow": "Kaynaklar",
+      "title": "Hatalı Kart Bildir",
+      "sections": [
+        {
+          "body": "Kuttabu kartlarının doğru, dengeli ve oynanabilir olması bizim için önemlidir. Bir kartta tarihsel hata, yanlış kategori veya sorunlu yasaklı kelime fark ederseniz bize bildirebilirsiniz."
+        },
+        {
+          "heading": "Hangi Durumlar Bildirilebilir?",
+          "body": "Yanlış bilgi içeren kartlar, çok kolay veya çok zor yasaklı kelimeler, tekrar eden kartlar, yazım hataları ve kategori uyumsuzlukları bildirilebilir."
+        },
+        {
+          "heading": "Nasıl Bildirilir?",
+          "body": "Uygulama içindeki geri bildirim alanını kullanabilir veya kart adını ve sorunu açıklayan kısa bir notla support@kuttabu.com adresine e-posta gönderebilirsiniz."
+        },
+        {
+          "heading": "İnceleme Süreci",
+          "body": "Gönderilen bildirimler incelenir. Uygun görülen kartlar güncellenir, düzenlenir veya kart havuzundan kaldırılır."
+        }
+      ]
+    },
+    "turkicStates": {
+      "eyebrow": "Türk Tarihi",
+      "title": "Türk Devletleri",
+      "sections": [
+        {
+          "body": "Türk devletleri, Orta Asya bozkırlarından Anadolu'ya, Balkanlardan Kafkaslara kadar geniş bir coğrafyada iz bırakmış siyasi ve kültürel yapılardır."
+        },
+        {
+          "heading": "Kuttabu'da Türk Devletleri",
+          "body": "Göktürkler, Hunlar, Uygurlar, Selçuklular, Osmanlılar ve diğer Türk devletleri; oyunda ana kelime ve yasaklı kelime ilişkileriyle yer alır."
+        },
+        {
+          "heading": "Neden Önemli?",
+          "body": "Türk devletleri askeri teşkilat, yönetim anlayışı, kültür, dil, sanat, hukuk ve diplomasi alanlarında önemli miraslar bırakmıştır."
+        },
+        {
+          "heading": "Oyun İçindeki Kullanım",
+          "body": "Bir kartta ana kelime Göktürkler olabilirken yasaklı kelimeler Orhun, Bilge Kağan, Kağan, Bozkurt veya Yazıt gibi güçlü çağrışımlardan oluşabilir."
+        }
+      ]
+    },
+    "gokturks": {
+      "eyebrow": "Türk Tarihi",
+      "title": "Göktürkler",
+      "sections": [
+        {
+          "body": "Göktürkler, Türk adını devlet adı olarak kullanan ilk siyasi yapılardan biri olarak Türk tarihinde özel bir yere sahiptir."
+        },
+        {
+          "heading": "Göktürklerin Tarihteki Yeri",
+          "body": "Göktürkler, bozkır kültürünün devletleşmiş önemli örneklerinden biridir. Kağanlık sistemi, askeri teşkilatı ve geniş coğrafyalara yayılan etkisiyle Türk tarihinin en bilinen dönemlerinden birini oluşturur."
+        },
+        {
+          "heading": "Orhun Yazıtları",
+          "body": "Bilge Kağan, Kül Tigin ve Tonyukuk adına dikilen Orhun Yazıtları, Türk dilinin ve tarih bilincinin en değerli kaynakları arasındadır."
+        },
+        {
+          "heading": "Kuttabu Kartlarında Göktürkler",
+          "body": "Göktürkler kartı; Orhun, Bilge Kağan, Yazıt, Bozkurt, Kağan, Tonyukuk ve Kül Tigin gibi güçlü çağrışımlarla birlikte kullanılabilir."
+        },
+        {
+          "heading": "Oyunda Neden Eğlenceli?",
+          "body": "Göktürkler kartı güçlü tarihsel çağrışımlar uyandırır. Yasaklı kelimeler doğru seçildiğinde anlatması oldukça zorlayıcı ve eğlenceli hale gelir."
+        }
+      ]
+    },
+    "seljukEmpire": {
+      "eyebrow": "Türk Tarihi",
+      "title": "Selçuklu Devleti",
+      "sections": [
+        {
+          "body": "Selçuklu Devleti, Türklerin İslam dünyasında siyasi, askeri ve kültürel açıdan önemli bir güç haline gelmesinde büyük rol oynamıştır."
+        },
+        {
+          "heading": "Tarihsel Önemi",
+          "body": "Selçuklular; yönetim sistemi, askeri başarıları, mimari eserleri ve bilimsel-kültürel faaliyetleriyle geniş bir coğrafyada etkili olmuştur."
+        },
+        {
+          "heading": "Malazgirt ve Anadolu",
+          "body": "Malazgirt Savaşı, Anadolu'nun Türk tarihi açısından yeni bir merkez haline gelmesinin kapısını aralamıştır."
+        },
+        {
+          "heading": "Kuttabu Kartlarında Selçuklular",
+          "body": "Selçuklu Devleti; Alparslan, Malazgirt, Nizamülmülk, Anadolu, Sultan, medrese ve kervansaray gibi kavramlarla ilişkilendirilebilir."
+        },
+        {
+          "heading": "Oyundaki Anlatım Zorluğu",
+          "body": "Selçuklu kartları güçlü çağrışımlar sunsa da yasaklı kelimeler doğru seçildiğinde anlatıcıyı farklı bağlantılar kurmaya zorlar."
+        }
+      ]
+    },
+    "ottomanHistory": {
+      "eyebrow": "Türk Tarihi",
+      "title": "Osmanlı Tarihi",
+      "sections": [
+        {
+          "body": "Osmanlı tarihi, küçük bir beylikten üç kıtaya yayılan büyük bir imparatorluğa uzanan uzun ve çok katmanlı bir süreçtir."
+        },
+        {
+          "heading": "Beylikten İmparatorluğa",
+          "body": "Osmanlı Beyliği zaman içinde Balkanlar, Anadolu, Orta Doğu ve Kuzey Afrika'da etkili olan büyük bir imparatorluğa dönüşmüştür."
+        },
+        {
+          "heading": "Kuttabu'da Osmanlı",
+          "body": "Osmanlı tarihi; padişahlar, savaşlar, antlaşmalar, kurumlar, mimari eserler ve kültürel kavramlar üzerinden Kuttabu kartlarında yer alır."
+        },
+        {
+          "heading": "Örnek Kart Çağrışımları",
+          "body": "Fatih Sultan Mehmet, İstanbul'un Fethi, Kanuni Sultan Süleyman, Yeniçeri, Topkapı Sarayı, Divan, Enderun ve Lale Devri güçlü çağrışımlardır."
+        },
+        {
+          "heading": "Oyunda Neden Güçlü?",
+          "body": "Osmanlı tarihi geniş bir kavram havuzuna sahip olduğu için hem kolay hem de zor kartlar üretmeye uygundur."
+        }
+      ]
+    }
+  }
+}

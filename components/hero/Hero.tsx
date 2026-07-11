@@ -24,7 +24,7 @@ export default function Hero() {
     </span>
 
     <div className="h-10 w-px bg-[#B28A3C]/50" />
-      </div>
+  </div>
         </div>
     </section>
   );

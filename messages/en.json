@@ -56,7 +56,7 @@
     ]
   },
   "Download": {
-    "title": "Ready to play? Coming Soon."
+    "title": "Ready to play? Coming Soon"
   },
   "Footer": {
     "brandDescription": "The Taboo Game of the Turkic World.",
@@ -575,6 +575,31 @@
         {
           "heading": "Example Card Associations",
           "body": "Mehmed the Conqueror, the Conquest of Constantinople, Suleiman the Magnificent, Janissaries, Topkapı Palace, the Imperial Council and the Tulip Era."
+        },
+        {
+          "heading": "Why Is It Strong in the Game?",
+          "body": "Ottoman history offers a broad vocabulary that makes it suitable for both easy and difficult cards."
+        }
+      ]
+    },
+    "ottomanEmpire": {
+      "eyebrow": "Turkic History",
+      "title": "The Ottoman Empire",
+      "sections": [
+        {
+          "body": "The Ottoman Empire grew from a small principality into a major political and cultural power spanning three continents and shaping world history for centuries."
+        },
+        {
+          "heading": "From Principality to Empire",
+          "body": "The Ottoman principality gradually became a major empire influential across Anatolia, the Balkans, the Middle East and North Africa."
+        },
+        {
+          "heading": "The Ottoman Empire in Kuttabu",
+          "body": "The Ottoman Empire appears in Kuttabu cards through rulers, battles, treaties, institutions, architecture and cultural concepts."
+        },
+        {
+          "heading": "Example Card Associations",
+          "body": "Mehmed the Conqueror, the Conquest of Constantinople, Suleiman the Magnificent, Janissaries, Topkapı Palace, the Imperial Council, Enderun and the Tulip Era are strong associations."
         },
         {
           "heading": "Why Is It Strong in the Game?",

@@ -581,6 +581,31 @@
           "body": "Osmanlı tarihi geniş bir kavram havuzuna sahip olduğu için hem kolay hem de zor kartlar üretmeye uygundur."
         }
       ]
+    },
+    "ottomanEmpire": {
+      "eyebrow": "Türk Tarihi",
+      "title": "Osmanlı İmparatorluğu",
+      "sections": [
+        {
+          "body": "Osmanlı İmparatorluğu, küçük bir beylikten üç kıtaya yayılan büyük bir siyasi ve kültürel güce dönüşmüş, yüzyıllar boyunca dünya tarihine yön vermiştir."
+        },
+        {
+          "heading": "Beylikten İmparatorluğa",
+          "body": "Osmanlı Beyliği zaman içinde Anadolu, Balkanlar, Orta Doğu ve Kuzey Afrika'da etkili olan büyük bir imparatorluğa dönüşmüştür."
+        },
+        {
+          "heading": "Kuttabu'da Osmanlı İmparatorluğu",
+          "body": "Osmanlı İmparatorluğu; padişahlar, savaşlar, antlaşmalar, kurumlar, mimari eserler ve kültürel kavramlar üzerinden Kuttabu kartlarında yer alır."
+        },
+        {
+          "heading": "Örnek Kart Çağrışımları",
+          "body": "Fatih Sultan Mehmet, İstanbul'un Fethi, Kanuni Sultan Süleyman, Yeniçeri, Topkapı Sarayı, Divan, Enderun ve Lale Devri güçlü çağrışımlardır."
+        },
+        {
+          "heading": "Oyunda Neden Güçlü?",
+          "body": "Osmanlı tarihi geniş bir kavram havuzuna sahip olduğu için hem kolay hem de zor kartlar üretmeye uygundur."
+        }
+      ]
     }
   }
 }

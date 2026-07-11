@@ -17,15 +17,15 @@ export default function Hero() {
         />
       </div>
 
-      <div className="pointer-events-none absolute inset-x-0 bottom-8 z-20 flex justify-center sm:bottom-10">
-        <div className="flex flex-col items-center gap-2">
-          <span className="text-xs font-semibold uppercase tracking-[0.25em] text-[#7B7167]">
-            SCROLL
-          </span>
+     <div className="pointer-events-none absolute inset-x-0 bottom-8 z-20 flex justify-center sm:bottom-10">
+  <div className="animate-scroll-hint flex flex-col items-center gap-2">
+    <span className="text-xs font-semibold uppercase tracking-[0.25em] text-[#7B7167]">
+      SCROLL
+    </span>
 
-          <div className="h-10 w-px bg-[#B28A3C]/50" />
-        </div>
+    <div className="h-10 w-px bg-[#B28A3C]/50" />
       </div>
+        </div>
     </section>
   );
 }

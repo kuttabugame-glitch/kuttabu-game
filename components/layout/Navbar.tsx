@@ -45,13 +45,13 @@ export default function Navbar() {
 
   return (
     <header className="sticky top-0 z-50 border-b border-[#E7DDC9]/80 bg-[#FFFDF8]/80 backdrop-blur-xl">
-      <div className="mx-auto flex h-20 max-w-6xl items-center justify-between px-6">
+      <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 sm:h-20 sm:px-6">
         <a href={`/${locale}`} aria-label="Kuttabu ana sayfa">
-          <img
-            src="/images/logo.svg"
-            alt="Kuttabu"
-            draggable={false}
-            className="h-10 w-auto select-none"
+         <img
+  src="/images/logo.svg"
+  alt="Kuttabu"
+  draggable={false}
+  className="h-7 w-auto select-none sm:h-9"
           />
         </a>
 

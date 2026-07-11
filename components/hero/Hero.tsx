@@ -17,8 +17,8 @@ export default function Hero() {
         />
       </div>
 
-      <div className="absolute bottom-10 left-1/2 z-20 -translate-x-1/2 animate-scroll-hint">
-        <div className="flex flex-col items-center gap-2">
+      <div className="pointer-events-none absolute inset-x-0 bottom-8 z-20 flex justify-center sm:bottom-10">
+  <div className="flex animate-scroll-hint flex-col items-center gap-2">
           <span className="text-xs font-semibold uppercase tracking-[0.25em] text-[#7B7167]">
             SCROLL
           </span>

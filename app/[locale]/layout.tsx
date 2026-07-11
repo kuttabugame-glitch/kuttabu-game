@@ -56,6 +56,12 @@ export async function generateMetadata({
 
     applicationName: "Kuttabu",
 
+    icons: {
+      icon: "/images/favicon.svg",
+      shortcut: "/images/favicon.svg",
+      apple: "/images/favicon.svg",
+    },
+
     keywords:
       locale === "tr"
         ? [
@@ -106,17 +112,17 @@ export async function generateMetadata({
       url: currentUrl,
       locale: seo.locale,
       alternateLocale: locale === "tr" ? ["en_US"] : ["tr_TR"],
-     images: [
-  {
-    url: "/og-image.jpg",
-    width: 1200,
-    height: 630,
-    alt:
-      locale === "tr"
-        ? "Kuttabu - Türk Dünyasının Tabu Oyunu"
-        : "Kuttabu - The Taboo Game of the Turkic World",
-  },
-],
+      images: [
+        {
+          url: "/og-image.jpg",
+          width: 1200,
+          height: 630,
+          alt:
+            locale === "tr"
+              ? "Kuttabu - Türk Dünyasının Tabu Oyunu"
+              : "Kuttabu - The Taboo Game of the Turkic World",
+        },
+      ],
     },
 
     twitter: {
@@ -154,9 +160,5 @@ export default async function LocaleLayout({
 
   setRequestLocale(locale);
 
-  return (
-    <NextIntlClientProvider>
-      {children}
-    </NextIntlClientProvider>
-  );
+  return <NextIntlClientProvider>{children}</NextIntlClientProvider>;
 }
